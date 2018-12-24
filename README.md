@@ -3,7 +3,9 @@ I have added a simple Makefile to do the steps necessary to build and run this (
 ```
 make clean
 ```
-```make run
+
+```
+make run
 ```
 
 # 🦀🕸️ `wasm-pack-template`
